@@ -1,4 +1,5 @@
-# opacity
+# Fundamental Flutter by ArdhikaRafi
+# Opacity
 
 A new Flutter project.
 
